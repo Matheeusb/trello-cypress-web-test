@@ -41,7 +41,7 @@ Custom Cypress commands are available for login, signup, board/list/card creatio
    ```
 2. Install dependencies and start the application:
    ```sh
-   cd trello-cypress-web-test
+   cd trello/
    npm install
    npm start
    ```
